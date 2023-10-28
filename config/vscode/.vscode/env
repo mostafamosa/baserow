@@ -1,3 +1,0 @@
-DATABASE_HOST=localhost
-PYTHONPATH=backend/src:premium/backend/src:enterprise/backend/src:backend/flake8_plugins:$PYTHONPATH
-DJANGO_SETTINGS_MODULE=baserow.config.settings.test
